@@ -1,0 +1,7 @@
+<project name="first project" default="copydemo">
+	
+	<target name="copydemo">
+	<echo> testing</echo>
+		</target>
+
+	</project>
